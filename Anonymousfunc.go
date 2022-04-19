@@ -18,4 +18,5 @@ func main() {
 
 func foo() {
 	fmt.Println("foo ran")
+	fmt.Println("foo ran2")
 }
